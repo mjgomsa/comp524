@@ -1,4 +1,6 @@
 #lang racket
+;; CREDIT: Prof. Terrell who wrote this lexer
+
 
 ;; To use this module, save this code as lex.rkt in the same directory as your
 ;; code and add the following line to your file:
